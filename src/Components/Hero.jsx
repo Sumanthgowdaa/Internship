@@ -13,7 +13,7 @@ function Hero () {
             
             <div className='btns d-flex gap-2 flex-wrap'>
             <button className="btn-outline">Learn More</button>
-            <button className="btn-solid">BUY NOW</button>
+            <button className="btn-solid">BUY NOW OR NEVER</button>
             </div>
             
         </div>
